@@ -1,5 +1,3 @@
-// app/page.tsx
-import dynamic from 'next/dynamic';
 import ScrollTextAnimation from '@/components/ScrollTextAnimation';
 import Nav from '@/components/Nav';
 
